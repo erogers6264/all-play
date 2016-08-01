@@ -1,4 +1,5 @@
-# [Swiss Pairings](https://github.com/erogers6264/fullstack-nanodegree-vm)
+#All-Play
+###A Swiss Style Tournament Player Pairing Program
 
 This Swiss Pairings program will help organize and pair players for a swiss style tournament, created by [Ethan Rogers](https://github.com/erogers6264).
 
